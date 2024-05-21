@@ -7,7 +7,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nieloncardoso&show_icons=true&theme=transparent)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nieloncardoso&amp;layout=compact&amp;langs_count=7&amp;theme=dracula" style="max-width: 100%;" height="120em">
 
 <div> 
 
