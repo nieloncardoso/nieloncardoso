@@ -12,7 +12,7 @@
 <div> 
 
   
-  <a href = "mailto:nielon.reis@youxlab.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:nieloncardosodosreis7@gmail.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
   
 </div>
